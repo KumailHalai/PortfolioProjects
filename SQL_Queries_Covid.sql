@@ -118,7 +118,7 @@ order by 2,3
 Select *, (RollingPeopleVaccinated/Population)*100
 From #PercentPopulationVaccinated
 
--- Creating View to store data for later visualizations
+-- Creating View to store data for later visualizations and query from it
 
 Create View PercentPopulationVaccinated as
 Select dea.continent, dea.location, dea.date, dea.population, vac.new_vaccinations
