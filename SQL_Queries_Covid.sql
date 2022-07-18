@@ -1,3 +1,5 @@
+--Code is Based on Covid Data of one year
+
 --Scanning the Whole Data
 Select *
 From PortfolioProject..CovidDeaths$
