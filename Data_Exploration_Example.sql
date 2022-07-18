@@ -1,4 +1,4 @@
---Cleaning Data In SQL
+--Cleaning Data In SQL for future exploration
 
 --Getting an overview of Data
 
